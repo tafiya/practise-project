@@ -1,0 +1,33 @@
+.nav-parent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nav{
+ background: linear-gradient(90.61deg, #591BFF -1.52%, rgba(123, 74, 255, 0.67) 97.59%);
+    ;
+    color: #FFFFFF;
+    ;
+width: 1160px;
+height: 72px;
+top: 13px;
+left: 140px;
+gap: 0px;
+border-radius: 20px ;
+opacity: 0px;
+display: flex;
+justify-content: space-between;
+padding-left: 40px;
+padding-right: 40px;
+}
+.nav-end{
+    display: flex;
+}
+.list{
+    display: flex;
+     justify-content: center;
+     align-items: center;
+    gap: 20px;
+    size: 16px;
+    font-weight: 400;
+}

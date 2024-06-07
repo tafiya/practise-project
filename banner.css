@@ -1,0 +1,4 @@
+.video-parallax {
+    -webkit-transition-position: fixed;
+    position: fixed;
+}
